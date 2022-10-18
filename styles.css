@@ -63,6 +63,11 @@
     padding-bottom: 5rem;
 }
 
+.img-logo{
+    width: 6rem;
+    height: 3rem;
+}
+
 @media(max-width: 414px){
     .bg-main{
         background-size: 70rem;
